@@ -1,0 +1,12 @@
+.container{
+
+    margin-inline: auto;
+    background-color: #e9f0fa;
+    height: 604px;
+    width: 400px;
+    right: 40%;
+    position: absolute;
+}
+body{
+    background-color: black;
+}
