@@ -4,8 +4,7 @@
     background-color: #e9f0fa;
     height: 604px;
     width: 400px;
-    right: 40%;
-    position: absolute;
+    display: block;lute;
 }
 body{
     background-color: black;
